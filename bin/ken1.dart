@@ -6,5 +6,5 @@ void printInteger(int aNumber) {
 // This is where the app starts executing.
 void main() {
   var number = 42; // Declare and initialize a variable.
-  printInteger(number); // Call a function.
+  printInteger(number);
 }
